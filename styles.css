@@ -128,6 +128,22 @@ body {
   margin: 10px 0;
 }
 
+.game a:link {
+   color: White;
+   text-decoration: none;
+   target-new: none;
+  }
+.game a:visited {
+   color: White;
+   text-decoration: none;
+   target-new: none;
+  }
+.game a:hover {
+   color: White;
+   text-decoration: underline;
+   target-new: none;
+  }
+
 .game-details {
   max-width: 750px;
   margin: 20px auto;
